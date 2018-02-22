@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href="bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/web_project2/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
   <div class="container">
     <header class="jumbotron text-center">
-        <h1>두 번째 페이지</h2>
+        <h1>두 번째 페이지</h1>
     </header>
 
     <hr />
@@ -22,6 +22,6 @@
 
   </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+    <script src="/web_project2/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
   </body>
   </html>
