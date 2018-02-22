@@ -16,7 +16,7 @@
 
     <hr />
 
-    <div id="control">
+    <div class="text-center" id="control">
       <a class="btn btn-default" href="./member/signup.php">회원가입</a>
     </div>
 
